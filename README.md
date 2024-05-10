@@ -1,16 +1,16 @@
 # PennyWise
 
 **Overview** <br>
-The expense tracker is a practical tool designed for efficient financial management, featuring user authentication, simplified expense and budget entry, flexible categorization, powerful filtering capabilities, and expense and budget management functionalities.
+PennyWise is an expense tracker and practical tool designed for efficient financial management, offering user authentication, simplified expense and budget entry, flexible categorization, powerful filtering capabilities, and comprehensive expense and budget management functionalities.
 
 **Purpose** <br>
-The purpose of the expense tracker is to streamline expense and budget tracking for users. By providing user authentication, easy expense and budget entry, customizable categories, and effective management features, the application aims to simplify financial tracking and promote better budgeting practices.
+The purpose of PennyWise is to streamline expense and budget tracking for users. By providing user authentication, easy expense and budget entry, customizable categories, and effective management features, the application aims to simplify financial tracking and promote better budgeting practices.
 
 **Objectives** <br>
 • Implement secure user authentication. <br>
 • Enable easy expense and budget entry. <br>
 • Support flexible categorization of expenses and budgets. <br>
-• Provide powerful filtering and search options. <br>
+• Provide powerful filtering. <br>
 • Enable effective expense and budget management. <br>
 
 **Scope** <br>
@@ -32,7 +32,7 @@ The purpose of the expense tracker is to streamline expense and budget tracking 
 1. User Authentication: <br>
 • Secure login system to authenticate users and ensure data privacy.<br>
 2. Expense Entry:<br>
-• Ability to input new expenses with details such as date, amount, description, and category.<br>
+• Ability to input new expenses with details such as date, amount, and description.<br>
 3. Budget Entry:<br>
 • Capability to set up budgets for different categories to establish spending limits.<br>
 4. Expense and Budget Categories:<br>
